@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bus_name: MyString
+  bus_number: MyString
+  bus_type: MyString
+  bus_time: 2023-04-14 16:35:38
+
+two:
+  bus_name: MyString
+  bus_number: MyString
+  bus_type: MyString
+  bus_time: 2023-04-14 16:35:38
